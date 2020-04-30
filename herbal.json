@@ -1,17 +1,14 @@
 
-	[
+	{
+	"result":[
 	{"herbalID":1,
 		"namaHerbal":"Daun Sirih",
-		"deskherbal":"Sirih merupakan tumbuhan perambat yang 
-					hidup bersender pada batang tanaman lain. Tanaman sirih panjangnya bisa mencapai puluhan meter. Daunnya licin,
-					berwarna hijau, dan berbentuk menyerupai jantung.Daun sirih bisa dimanfaatkan untuk mengurangi produk ASI yang
-					berlebihan, keputihan, sakit jantung, sifilis, alergi, diare, batuk, sakit gigi berlubang, dan sakit mata",
+		"deskherbal":"Sirih merupakan tumbuhan perambat yang hidup bersender pada batang tanaman lain. Tanaman sirih panjangnya bisa mencapai puluhan meter. Daunnya licin,berwarna hijau, dan berbentuk menyerupai jantung.Daun sirih bisa dimanfaatkan untuk mengurangi produk ASI yangberlebihan, keputihan, sakit jantung, sifilis, alergi, diare, batuk, sakit gigi berlubang, dan sakit mata",
 		"gambar":"https://firebasestorage.googleapis.com/v0/b/finalproject-4bb57.appspot.com/o/gambar_asset%2F2.jpg?alt=media&token=4abd40a4-964e-4cb5-9ef6-e526c709066c"
 	},
 	{"herbalID":2,
 	"namaHerbal":"sisik Naga",
-	"deskherbal":"Sisik naga mengandung gula, minyak asiri, tannin, sterol, flavonoid dan fenol. Daun sisik naga bisa
-		digunakan untuk menghilangkan nyeri, obat batuk, pembersih darah, memperkuat paru-paru dan penghenti pendarahan",
+	"deskherbal":"Sisik naga mengandung gula, minyak asiri, tannin, sterol, flavonoid dan fenol. Daun sisik naga bisadigunakan untuk menghilangkan nyeri, obat batuk, pembersih darah, memperkuat paru-paru dan penghenti pendarahan",
 		"gambar":"https://firebasestorage.googleapis.com/v0/b/finalproject-4bb57.appspot.com/o/gambar_asset%2F1.jpg?alt=media&token=68283e42-fefb-4861-8eb0-a0964286f6b7"
 	
 	},
@@ -22,21 +19,18 @@
 	},
 	{"herbalID":4,
 	"namaHerbal":"Tanaman Sembung",
-	"deskherbal":"Tanaman sembung mengandung senyawa kimia borneol, di-methyl ether phloroacetophenone, limonene dan cineole. 
-		Daun dan akarnya berkhasiat untuk mengobati reumatik, sakit tulang, nyeri haid, diare, kembung dan influenza.",
+	"deskherbal":"Tanaman sembung mengandung senyawa kimia borneol, di-methyl ether phloroacetophenone, limonene dan cineole. Daun dan akarnya berkhasiat untuk mengobati reumatik, sakit tulang, nyeri haid, diare, kembung dan influenza.",
 		"gambar":"https://firebasestorage.googleapis.com/v0/b/finalproject-4bb57.appspot.com/o/gambar_asset%2F4.jpg?alt=media&token=a56baa0d-ffdd-4c71-964e-80675c595e3e"
 	},
 	{"herbalID":5,
 	"namaHerbal":"Semanggi Gunung",
-	"deskherbal":"Bisa digunakan untuk mengobati infeksi telinga tengah, sakit kuning, sariawan, pengecilan hati dengan busung,
-		batuk, sesak nafas, batu empedu, radang tenggorok dan infeksi amandel.",
+	"deskherbal":"Bisa digunakan untuk mengobati infeksi telinga tengah, sakit kuning, sariawan, pengecilan hati dengan busung,batuk, sesak nafas, batu empedu, radang tenggorok dan infeksi amandel.",
 		"gambar":"https://firebasestorage.googleapis.com/v0/b/finalproject-4bb57.appspot.com/o/gambar_asset%2F5.jpg?alt=media&token=6158314c-de0b-4cd4-b2f7-46f2aa4001a4"
 		
 	},
 	{"herbalID":6,
 	"namaHerbal":"Sambiloto",
-	"deskherbal":"Sambiloto berkhasiat untuk mengatasi hepatitis, disentri basiler, infeksi saluran empedu, radang saluran napas, 
-		radang ginjal akut, radang telinga, kencing nanah, kencing manis, darah tinggi, keracunan jamur, kusta dll.",
+	"deskherbal":"Sambiloto berkhasiat untuk mengatasi hepatitis, disentri basiler, infeksi saluran empedu, radang saluran napas, radang ginjal akut, radang telinga, kencing nanah, kencing manis, darah tinggi, keracunan jamur, kusta dll.",
 		"gambar":"https://firebasestorage.googleapis.com/v0/b/finalproject-4bb57.appspot.com/o/gambar_asset%2F6.jpg?alt=media&token=7afe6dfc-8192-4767-ba69-aca6344b2d1a"
 	},
 	{"herbalID":7,
@@ -56,9 +50,9 @@
 	},
 	{"herbalID":10,
 	"namaHerbal":"Pare",
-	"deskherbal":"Buah, biji, bunga, daun dan akar dari tanaman pare bisa digunakan sebagai obat. Penyakit yang bisa diobati diantaranya batuk radang tenggorokan,
-	cacinga, sakit mata merah, sembelit, demam, sakit lever, malaria, abses, menambah nafsu makan, bisul, sariawan, kencing manis dan rematik.",
+	"deskherbal":"Buah, biji, bunga, daun dan akar dari tanaman pare bisa digunakan sebagai obat. Penyakit yang bisa diobati diantaranya batuk radang tenggorokan,cacingan, sakit mata merah, sembelit, demam, sakit lever, malaria, abses, menambah nafsu makan, bisul, sariawan, kencing manis dan rematik.",
 	"gambar":"https://firebasestorage.googleapis.com/v0/b/finalproject-4bb57.appspot.com/o/gambar_asset%2F10.jpg?alt=media&token=628489e7-d629-4a19-8995-5f56278c2736"
 		
 	}
 ]
+}

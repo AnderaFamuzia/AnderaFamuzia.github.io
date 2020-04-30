@@ -34,7 +34,7 @@
 		
 	},
 	{"herbalID":6,
-	"namaHerbal":"Sambiloto"
+	"namaHerbal":"Sambiloto",
 	"deskherbal":"Sambiloto berkhasiat untuk mengatasi hepatitis, disentri basiler, infeksi saluran empedu, radang saluran napas, 
 		radang ginjal akut, radang telinga, kencing nanah, kencing manis, darah tinggi, keracunan jamur, kusta dll.",
 		"gambar":"https://firebasestorage.googleapis.com/v0/b/finalproject-4bb57.appspot.com/o/gambar_asset%2F6.jpg?alt=media&token=7afe6dfc-8192-4767-ba69-aca6344b2d1a"
@@ -44,7 +44,7 @@
 	"deskherbal":"khasiatnya yaitu untuk mengatasi radang usus buntu, tonsilis, hepatitis, bronchitis, radang panggul, infeksi saluran kemih, pneumonia dan kanker payudara",
 	"gambar":"https://firebasestorage.googleapis.com/v0/b/finalproject-4bb57.appspot.com/o/gambar_asset%2F7.jpg?alt=media&token=99804d9f-aa67-4055-a6e9-4f4033638fa3"
 	},
-	{"herbalID":8
+	{"herbalID":8,
 	"namaHerbal":"Putri Malu",
 	"deskherbal":"Khasiat dari putri malu diantaranya untuk mengobati rheumatic, susah tidur, cacingan, radang saluran nafas, herpes, dan panas tinggi pada anak-anak.",
 	"gambar":"https://firebasestorage.googleapis.com/v0/b/finalproject-4bb57.appspot.com/o/gambar_asset%2F8.jpg?alt=media&token=86ef2371-cdf0-43ad-b981-3051baa4d623"
